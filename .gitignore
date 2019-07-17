@@ -4,4 +4,11 @@
 .settings
 /bin
 *.jar
-/doc
+*.zip
+/libs
+/docs
+/.idea
+/out
+.gitignore
+q
+*iml
